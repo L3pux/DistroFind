@@ -13,4 +13,4 @@ To use the bot you can either add it to your server (I'm not hosting it yet) or 
 
 **$random**: It'll find the basic info for a random distro (Note: It the distro info from the top 100 distros in distrofind main page)
 
-**$lgoo [distro_name]**: It'll find the logo of the distro (Ignore for now: It won't work becasue discord won't display the URL and an image)
+**$logo [distro_name]**: It'll find the logo of the distro (Ignore for now: It won't work becasue discord won't display the URL and an image)
